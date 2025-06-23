@@ -1,0 +1,2 @@
+- A coluna fnlwgt, que é um ponderador estatístico utilizado para ajustar a precisão da amosta com relação à população que ela representa, foi excluída do dataset.
+- A coluna education-num foi excluída do dataset, pois é contínua e a coluna education já é discretizada e contém os mesmos rótulos que seriam aplicadas a ela se discretizada.

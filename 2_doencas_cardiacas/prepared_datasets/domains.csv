@@ -1,0 +1,5 @@
+age;sex;cp;trestbps;chol;fbs;restecg;thalach;exang;oldpeak;slope;ca;thal
+CRI;F;TA;B;B;F;NM;B;N;B;SD;C1;N
+ADO;M;AA;M;M;T;ST;M;S;M;PL;C2;F
+ADU;;NP;A;A;;LV;A;;A;DD;C3;R
+IDO;;AS;;;;;;;;;C4;

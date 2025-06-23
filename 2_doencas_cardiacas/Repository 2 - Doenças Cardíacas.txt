@@ -1,0 +1,1 @@
+- Valores ausentes são possíveis nas colunas [ca] e [thal]. Registros com valores ausentes (6) foram eliminados, ficando 297 registros.

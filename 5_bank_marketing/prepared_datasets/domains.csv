@@ -1,0 +1,13 @@
+﻿age;job;marital;education;default;balance;housing;loan;duration;campaign;pdays;previous
+CRI;job;married;primary;yes;B;yes;yes;C;P;NC;P
+ADO;unemployed;divorced;secondary;no;M;no;no;M;M;CR;M
+ADU;services;single;tertiary;;A;;;L;G;CM;G
+IDO;management;;unknown;;;;;;;CL;
+;blue-collar;;;;;;;;;;
+;self-employed;;;;;;;;;;
+;technician;;;;;;;;;;
+;entrepreneur;;;;;;;;;;
+;admin.;;;;;;;;;;
+;student;;;;;;;;;;
+;housemaid;;;;;;;;;;
+;retired;;;;;;;;;;
