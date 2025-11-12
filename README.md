@@ -1,5 +1,5 @@
 # dqmml
-Datasets do repositório UCI utilizados no Modelo de Avaliação da Qualidade dos Dados para Projetos de Aprendizado de Máquina proposto em dissertação para obtenção do título de Mestre em Informática pela PUC-MG.
+Datasets do repositório UCI utilizados na Proposta de Métricas para Avaliação da Qualidade dos Dados para Projetos de Aprendizado de Máquina proposto em dissertação para obtenção do título de Mestre em Informática pela PUC Minas.
 
 1) Iris: contém 150 instâncias com 4 atributos contínuos e 3 classes (Iris Setosa, Iris Versicolour e Iris Virginica).
 Contém 4 características métricas das plantas que são utilizadas para definir o seu tipo. É muito simples e bem conhecido no mundo acadêmico, sendo ótimo para ilustrar de forma facilmente compreensível modelos de aprendizado.
